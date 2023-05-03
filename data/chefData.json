@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "chefId": 1016,
+      "chefName": "John Smith",
+      "imgSrc": "../public/chef1.jpg",
+      "experience": "10 years",
+      "likes":"710k",
+      "recipes":20,
+      "bio":"John Smith is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, John Smith has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+    },
+    {
+      "id": 2,
+      "chefId": 1025,
+      "chefName": "Maria Rodriguez",
+      "imgSrc": "../public/chef1.jpg",
+      "experience": "8 years",
+      "likes":"152k",
+      "recipes":15,
+      "bio":"Maria Rodriguez is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Maria Rodriguez has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+    },
+    {
+      "id": 3,
+      "chefId": 1034,
+      "chefName": "David Lee",
+      "imgSrc": "../public/chef1.jpg",
+      "experience": "15 years",
+      "likes":"70k",
+      "recipes":25,
+      "bio":"David Lee is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, David Lee has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+    },
+    {
+      "id": 4,
+      "chefId": 1043,
+      "chefName": "Sara Khan",
+      "imgSrc": "../public/chef1.jpg",
+      "experience": "5 years",
+      "likes":"240k",
+      "recipes":10,
+      "bio":"Sara Khan is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Sara Khan has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+    },
+    {
+      "id": 5,
+      "chefId": 1052,
+      "chefName": "Thomas Brown",
+      "imgSrc": "../public/chef1.jpg",
+      "experience": "20 years",
+      "likes":"52k",
+      "recipes":12,
+      "bio":"Thomas Brown is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Thomas Brown has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+    },
+    {
+      "id": 6,
+      "chefId": 1061,
+      "chefName": "Lena Chen",
+      "imgSrc": "../public/chef1.jpg",
+      "experience": "12 years",
+      "likes":"60k",
+      "recipes":17,
+      "bio":"Lena Chen is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Lena Chen has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+      
+    }
+  ]
+  
