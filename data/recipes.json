@@ -1,0 +1,106 @@
+[
+    {
+      "id": "1",
+      "chefId": "1016",
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "1 pound ground beef",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 can (28 oz) crushed tomatoes",
+        "1 tsp dried basil",
+        "1 tsp dried oregano",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "1/4 cup grated Parmesan cheese",
+        "1 pound spaghetti"
+      ],
+      "cooking_method":[
+        "In a large pot, cook ground beef over medium heat until browned. Drain any excess fat.",
+        "Add chopped onion and garlic to the pot and cook until softened.",
+        "Add crushed tomatoes, basil, oregano, salt, and pepper. Bring to a simmer and let cook for 20-30 minutes.",
+        "Cook spaghetti according to package instructions. Drain.",
+        "Serve the spaghetti with the Bolognese sauce on top. Sprinkle with Parmesan cheese."
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "chefId": "1016",
+      "name": "Chicken Stir-Fry",
+      "ingredients": [
+        "2 chicken breasts, cut into small pieces",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "1 tbsp cornstarch",
+        "1/4 cup soy sauce",
+        "1/4 cup chicken broth",
+        "1 tbsp vegetable oil"
+      ],
+      "cooking_method": [
+        "In a small bowl, mix together cornstarch, soy sauce, and chicken broth",
+        "Heat vegetable oil in a large skillet over high heat.",
+        "Add chicken to the skillet and cook until browned on all sides",
+        "Add sliced peppers, onions, and garlic to the skillet and cook until vegetables are tender.",
+        "Pour the soy sauce mixture over the chicken and vegetables. Cook until the sauce has thickened and coated everything evenly."
+      ],
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "chefId": "1016",
+      "name": "Chocolate Chip Cookies",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup unsalted butter, at room temperature",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cooking_method":[
+        "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
+        "In a medium bowl, mix together flour, baking soda, and salt",
+        "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy",
+        "Add eggs and vanilla to the butter mixture and beat until well combined",
+        "Gradually add the flour mixture to the butter mixture, mixing until just combined",
+        "Stir in chocolate chips",
+        "Drop dough by rounded tablespoonfuls onto the prepared baking sheet",
+        "Bake for 10-12 minutes, or until the edges are golden brown. Let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely"
+        
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "chefId": "1025",
+      "name": "Chocolate Chip",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup unsalted butter, at room temperature",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cooking_method":[
+        "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
+        "In a medium bowl, mix together flour, baking soda, and salt",
+        "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy",
+        "Add eggs and vanilla to the butter mixture and beat until well combined",
+        "Gradually add the flour mixture to the butter mixture, mixing until just combined.",
+        "Stir in chocolate chips",
+        "Drop dough by rounded tablespoonfuls onto the prepared baking sheet.",
+        "Bake for 10-12 minutes, or until the edges are golden brown. Let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
+      ],
+      "rating": 4.8
+    }
+  ]
