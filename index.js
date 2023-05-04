@@ -6,17 +6,31 @@ const cors = require('cors')
 
 const chef = require('./data/chefData.json')
 const recipes = require('./data/recipes.json')
+const clients = require('./data/happyClients.json')
 
 
 
 app.use(cors())
 
+
+// to get all recipe /all-recipe
+// to get chef /chef
+
 app.get('/', (req, res) => {
   res.send( 'Life is beautiful')
 })
 
+app.get('/all-recipe', (req, res) => {
+  res.send(recipes)
+})
+
 app.get('/chef',(req, res)=>{
   res.send(chef)
+})
+
+
+app.get('/clients',(req, res)=>{
+  res.send(clients)
 })
 
 app.get('/chef/:id',(req, res)=>{

@@ -1,106 +1,566 @@
 [
-    {
+  {
       "id": "1",
       "chefId": "1016",
-      "name": "Spaghetti Bolognese",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe1.png",
+      "name": "Avocado Salad",
       "ingredients": [
-        "1 pound ground beef",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "1 can (28 oz) crushed tomatoes",
-        "1 tsp dried basil",
-        "1 tsp dried oregano",
-        "1/2 tsp salt",
-        "1/4 tsp black pepper",
-        "1/4 cup grated Parmesan cheese",
-        "1 pound spaghetti"
-      ],
-      "cooking_method":[
-        "In a large pot, cook ground beef over medium heat until browned. Drain any excess fat.",
-        "Add chopped onion and garlic to the pot and cook until softened.",
-        "Add crushed tomatoes, basil, oregano, salt, and pepper. Bring to a simmer and let cook for 20-30 minutes.",
-        "Cook spaghetti according to package instructions. Drain.",
-        "Serve the spaghetti with the Bolognese sauce on top. Sprinkle with Parmesan cheese."
-      ],
-      "rating": 4.5
-    },
-    {
-      "id": "2",
-      "chefId": "1016",
-      "name": "Chicken Stir-Fry",
-      "ingredients": [
-        "2 chicken breasts, cut into small pieces",
-        "1 red bell pepper, sliced",
-        "1 green bell pepper, sliced",
-        "1 onion, sliced",
-        "2 cloves garlic, minced",
-        "1 tbsp cornstarch",
-        "1/4 cup soy sauce",
-        "1/4 cup chicken broth",
-        "1 tbsp vegetable oil"
+          "Half Avocado",
+          "2 oz Plum Tomato",
+          "3 oz Bean Sprouts",
+          "1 tbs Red Chili Sauce with Shiitake mushroom",
+          "1/2 tbs Red Chili Oil Sauce"
       ],
       "cooking_method": [
-        "In a small bowl, mix together cornstarch, soy sauce, and chicken broth",
-        "Heat vegetable oil in a large skillet over high heat.",
-        "Add chicken to the skillet and cook until browned on all sides",
-        "Add sliced peppers, onions, and garlic to the skillet and cook until vegetables are tender.",
-        "Pour the soy sauce mixture over the chicken and vegetables. Cook until the sauce has thickened and coated everything evenly."
+          "Put half avocado, bean sprouts and plum tomato in the plate",
+          "Add red chili sauce with shiitake mushroom on the avocado, add red chili oil sauce on the bean sprouts",
+          "Serve cold and enjoy!"
+      ],
+      "rating": 4.5
+  },
+  {
+      "id": "2",
+      "chefId": "1016",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe2.png",
+      "name": "Chicken Stir-Fry",
+      "ingredients": [
+          "2 chicken breasts, cut into small pieces",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1 tbsp cornstarch",
+          "1/4 cup soy sauce",
+          "1/4 cup chicken broth",
+          "1 tbsp vegetable oil"
+      ],
+      "cooking_method": [
+          "In a small bowl, mix together cornstarch, soy sauce, and chicken broth",
+          "Heat vegetable oil in a large skillet over high heat.",
+          "Add chicken to the skillet and cook until browned on all sides",
+          "Add sliced peppers, onions, and garlic to the skillet and cook until vegetables are tender.",
+          "Pour the soy sauce mixture over the chicken and vegetables. Cook until the sauce has thickened and coated everything evenly."
       ],
       "rating": 4.2
-    },
-    {
+  },
+  {
       "id": "3",
       "chefId": "1016",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe3.png",
       "name": "Chocolate Chip Cookies",
       "ingredients": [
-        "2 1/4 cups all-purpose flour",
-        "1 tsp baking soda",
-        "1 tsp salt",
-        "1 cup unsalted butter, at room temperature",
-        "3/4 cup granulated sugar",
-        "3/4 cup brown sugar",
-        "2 large eggs",
-        "2 tsp vanilla extract",
-        "2 cups semisweet chocolate chips"
+          "2 1/4 cups all-purpose flour",
+          "1 tsp baking soda",
+          "1 tsp salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup granulated sugar",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "2 tsp vanilla extract",
+          "2 cups semisweet chocolate chips"
       ],
-      "cooking_method":[
-        "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
-        "In a medium bowl, mix together flour, baking soda, and salt",
-        "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy",
-        "Add eggs and vanilla to the butter mixture and beat until well combined",
-        "Gradually add the flour mixture to the butter mixture, mixing until just combined",
-        "Stir in chocolate chips",
-        "Drop dough by rounded tablespoonfuls onto the prepared baking sheet",
-        "Bake for 10-12 minutes, or until the edges are golden brown. Let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely"
-        
+      "cooking_method": [
+          "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
+          "In a medium bowl, mix together flour, baking soda, and salt",
+          "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy",
+          "Add eggs and vanilla to the butter mixture and beat until well combined",
+          "Gradually add the flour mixture to the butter mixture, mixing until just combined",
+          "Stir in chocolate chips",
+          "Drop dough by rounded tablespoonfuls onto the prepared baking sheet",
+          "Bake for 10-12 minutes, or until the edges are golden brown. Let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely"
       ],
       "rating": 4.8
-    },
-    {
+  },
+  {
       "id": "4",
       "chefId": "1025",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe4.png",
       "name": "Chocolate Chip",
       "ingredients": [
-        "2 1/4 cups all-purpose flour",
-        "1 tsp baking soda",
-        "1 tsp salt",
-        "1 cup unsalted butter, at room temperature",
-        "3/4 cup granulated sugar",
-        "3/4 cup brown sugar",
-        "2 large eggs",
-        "2 tsp vanilla extract",
-        "2 cups semisweet chocolate chips"
+          "2 1/4 cups all-purpose flour",
+          "1 tsp baking soda",
+          "1 tsp salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup granulated sugar",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "2 tsp vanilla extract",
+          "2 cups semisweet chocolate chips"
       ],
-      "cooking_method":[
-        "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
-        "In a medium bowl, mix together flour, baking soda, and salt",
-        "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy",
-        "Add eggs and vanilla to the butter mixture and beat until well combined",
-        "Gradually add the flour mixture to the butter mixture, mixing until just combined.",
-        "Stir in chocolate chips",
-        "Drop dough by rounded tablespoonfuls onto the prepared baking sheet.",
-        "Bake for 10-12 minutes, or until the edges are golden brown. Let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
+      "cooking_method": [
+          "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
+          "In a medium bowl, mix together flour, baking soda, and salt",
+          "In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy",
+          "Add eggs and vanilla to the butter mixture and beat until well combined",
+          "Gradually add the flour mixture to the butter mixture, mixing until just combined.",
+          "Stir in chocolate chips",
+          "Drop dough by rounded tablespoonfuls onto the prepared baking sheet.",
+          "Bake for 10-12 minutes, or until the edges are golden brown. Let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
       ],
       "rating": 4.8
-    }
-  ]
+  },
+  {
+      "id": "5",
+      "chefId": "1025",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe5.png",
+      "name": "Shrimp Fried Rice",
+      "ingredients": [
+          "2 cups Cooked Rice",
+          "1/2 lb Shrimp",
+          "1/4 cup Peas",
+          "1/4 cup Carrots",
+          "2 Eggs",
+          "2 tbsp Soy Sauce",
+          "2 tbsp Vegetable Oil",
+          "2 cloves Garlic",
+          "1 inch Ginger",
+          "1 tsp Salt",
+          "1/4 tsp White Pepper"
+      ],
+      "cooking_method": [
+          "In a wok or large skillet, heat vegetable oil over high heat.",
+          "Add garlic and ginger, and stir-fry until fragrant.",
+          "Add shrimp and stir-fry until pink.",
+          "Push the shrimp to the side of the wok, and add beaten eggs to the center.",
+          "Scramble the eggs until just cooked, and then mix in with the shrimp.",
+          "Add peas and carrots, and stir-fry until the vegetables are tender.",
+          "Add cooked rice and stir-fry until heated through.",
+          "Add soy sauce, salt, and white pepper, and stir-fry for another minute.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.6
+  },
+
+  {
+      "id": "6",
+      "chefId": "1025",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe6.png",
+      "name": "Wonton Soup",
+      "ingredients": [
+          "1 lb Ground Pork",
+          "1/4 cup Shiitake Mushrooms",
+          "2 Green Onions",
+          "2 tsp Soy Sauce",
+          "1 tsp Rice Vinegar",
+          "1/2 tsp Sesame Oil",
+          "1 Egg",
+          "1/2 tsp Salt",
+          "1/4 tsp White Pepper",
+          "30 Wonton Wrappers",
+          "6 cups Chicken Stock",
+          "2 cloves Garlic",
+          "1 inch Ginger"
+      ],
+      "cooking_method": [
+          "In a bowl, mix together ground pork, shiitake mushrooms, green onions, soy sauce, rice vinegar, sesame oil, egg, salt, and white pepper.",
+          "Place a small spoonful of the filling in the center of a wonton wrapper.",
+          "Moisten the edges of the wrapper with water, and fold the wrapper in half to form a triangle, pressing the edges to seal.",
+          "In a large pot, bring chicken stock, garlic, and ginger to a boil.",
+          "Add wontons and simmer until cooked through, about 5 minutes.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.8
+  },
+  {
+      "id": "7",
+      "chefId": "1034",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe7.png",
+      "name": "Hot and Sour Soup",
+      "ingredients": [
+          "6 cups Chicken Stock",
+          "1/2 cup Bamboo Shoots",
+          "1/2 cup Shiitake Mushrooms",
+          "1/4 cup Black Fungus",
+          "1/4 cup Carrots",
+          "1/4 cup Firm Tofu",
+          "2 tbsp Cornstarch",
+          "2 tbsp Rice Vinegar",
+          "1 tbsp Soy Sauce",
+          "1 tbsp Chili Sauce",
+          "1 Egg",
+          "1/4 tsp White Pepper"
+      ],
+      "cooking_method": [
+          "In a pot, bring chicken stock, bamboo shoots, shiitake mushrooms, black fungus, and carrots to a boil.",
+          "In a small bowl, mix cornstarch with 1/4 cup of water.",
+          "Add the cornstarch mixture to the soup and stir well.",
+          "Add firm tofu, rice vinegar, soy sauce, and chili sauce, and bring to a boil.",
+          "In a bowl, beat the egg and slowly pour into the soup while stirring.",
+          "Add white pepper and stir well.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.7
+  },
+  {
+      "id": "8",
+      "chefId": "1034",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe1.png",
+      "name": "Kung Pao Chicken",
+      "ingredients": [
+          "1 lb Chicken Breast",
+          "1/2 cup Peanuts",
+          "1/2 Red Bell Pepper",
+          "1/2 Green Bell Pepper",
+          "2 Green Onions",
+          "2 cloves Garlic",
+          "1 inch Ginger",
+          "2 tbsp Soy Sauce",
+          "2 tbsp Rice Vinegar",
+          "1 tbsp Hoisin Sauce",
+          "1 tbsp Cornstarch",
+          "1 tbsp Vegetable Oil",
+          "1 tsp Sichuan Peppercorns",
+          "1/2 tsp Salt"
+      ],
+      "cooking_method": [
+          "Cut chicken breast into bite-size cubes and marinate with soy sauce, rice vinegar, hoisin sauce, cornstarch, salt, and Sichuan peppercorns for 30 minutes.",
+          "In a wok or large skillet, heat vegetable oil over high heat.",
+          "Add garlic and ginger, and stir-fry until fragrant.",
+          "Add chicken and stir-fry until browned.",
+          "Add peanuts, red and green bell peppers, and green onions, and stir-fry for another minute.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.9
+  },
+  {
+      "id": "9",
+      "chefId": "1034",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe2.png",
+            "name": "Ma Po Tofu",
+      "ingredients": [
+          "1/2 lb Soft Tofu",
+          "1/4 lb Ground Pork",
+          "1/4 cup Shiitake Mushrooms",
+          "2 Green Onions",
+          "2 cloves Garlic",
+          "1 inch Ginger",
+          "2 tbsp Fermented Black Beans",
+          "2 tbsp Chili Bean Sauce",
+          "1 tbsp Soy Sauce",
+          "1 tbsp Vegetable Oil",
+          "1 tsp Sichuan Peppercorns",
+          "1/2 tsp Salt"
+      ],
+      "cooking_method": [
+          "Cut soft tofu into small cubes and set aside.",
+          "In a wok or large skillet, heat vegetable oil over high heat.",
+          "Add garlic, ginger, and Sichuan peppercorns, and stir-fry until fragrant.",
+          "Add ground pork and stir-fry until browned.",
+          "Add fermented black beans, chili bean sauce, and shiitake mushrooms, and stir-fry for another minute.",
+          "Add soft tofu and gently stir until well combined.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.6
+  },
+
+  {
+      "id": "10",
+      "chefId": "1043",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe3.png",
+            "name": "Scallion Pancakes",
+      "ingredients": [
+          "2 cups All-Purpose Flour",
+          "3/4 cup Boiling Water",
+          "1/4 cup Cold Water",
+          "1/4 cup Chopped Scallions",
+          "2 tbsp Vegetable Oil",
+          "1 tsp Salt"
+      ],
+      "cooking_method": [
+          "In a large bowl, mix flour and salt.",
+          "Add boiling water and mix well with a spatula.",
+          "Add cold water and knead until the dough is smooth.",
+          "Divide the dough into 4 equal portions.",
+          "On a floured surface, roll out each portion into a thin circle.",
+          "Brush the surface with vegetable oil and sprinkle with chopped scallions.",
+          "Roll up the dough tightly into a cylinder.",
+          "Curl the cylinder into a spiral, tucking the end underneath.",
+          "Flatten the spiral into a pancake.",
+          "Heat a non-stick skillet over medium-high heat.",
+          "Add a pancake and cook until both sides are golden brown.",
+          "Repeat with the remaining pancakes.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.8
+  },
+
+  {
+      "id": "11",
+      "chefId": "1043",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe4.png",
+            "name": "Kung Pao Chicken",
+      "ingredients": [
+          "1 lb Boneless Chicken Breast",
+          "1/2 cup Roasted Peanuts",
+          "1 Red Bell Pepper",
+          "2 Green Onions",
+          "2 cloves Garlic",
+          "1 inch Ginger",
+          "2 tbsp Soy Sauce",
+          "1 tbsp Hoisin Sauce",
+          "1 tbsp Corn Starch",
+          "1 tbsp Chinese Black Vinegar",
+          "1 tsp Sugar",
+          "1 tsp Sichuan Peppercorns",
+          "1/2 tsp Salt",
+          "2 tbsp Vegetable Oil"
+      ],
+      "cooking_method": [
+          "Cut chicken breast into small cubes and set aside.",
+          "In a small bowl, mix soy sauce, hoisin sauce, corn starch, Chinese black vinegar, sugar, and salt.",
+          "In a wok or large skillet, heat vegetable oil over high heat.",
+          "Add garlic, ginger, and Sichuan peppercorns, and stir-fry until fragrant.",
+          "Add chicken and stir-fry until browned.",
+          "Add red bell pepper and stir-fry for another minute.",
+          "Add the sauce and roasted peanuts, and stir-fry until the chicken is fully cooked and the sauce is thickened.",
+          "Garnish with chopped green onions.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.7
+  },
+
+  {
+      "id": "12",
+      "chefId": "1043",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe5.png",
+            "name": "Hot and Sour Soup",
+      "ingredients": [
+          "4 cups Chicken Stock",
+          "1/2 lb Firm Tofu",
+          "4 oz Shiitake Mushrooms",
+          "2 Green Onions",
+          "2 cloves Garlic",
+          "1 inch Ginger",
+          "2 tbsp Soy Sauce",
+          "2 tbsp Chinese Black Vinegar",
+          "1 tbsp Corn Starch",
+          "1 tsp Sugar",
+          "1 tsp Sichuan Peppercorns",
+          "1/2 tsp Salt",
+          "1 Egg",
+          "2 tbsp Vegetable Oil"
+      ],
+      "cooking_method": [
+          "Cut tofu and shiitake mushrooms into small cubes and set aside.",
+          "In a small bowl, mix soy sauce, Chinese black vinegar, corn starch, sugar, and salt.",
+          "In a wok or large pot, heat vegetable oil over high heat.",
+          "Add garlic, ginger, and Sichuan peppercorns, and stir-fry until fragrant.",
+          "Add chicken stock and bring to a boil.",
+          "Add tofu and shiitake mushrooms, and simmer for 5 minutes.",
+          "Add the sauce and stir well.",
+          "Beat the egg and slowly pour it into the soup, stirring gently.",
+          "Garnish with chopped green onions.",
+          "Serve hot and enjoy!"
+      ],
+      "rating": 4.5
+  },
+
+  {
+      "id": "13",
+      "chefId": "1052",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe6.png",
+            "name": "Ma Po Tofu",
+      "ingredients": [
+          "1 lb Soft Tofu",
+          "4 oz Ground Pork",
+          "1/2 cup Chicken Stock",
+          "4 oz Shiitake Mushrooms",
+          "2 Green Onions",
+          "2 cloves Garlic",
+          "1 inch Ginger",
+          "2 tbsp Chili Bean Sauce",
+          "2 tbsp Soy Sauce",
+          "1 tbsp Shaoxing Wine",
+          "1 tbsp Corn Starch",
+          "1 tsp Sichuan Peppercorns",
+          "1/2 tsp Salt",
+          "2 tbsp Vegetable Oil"
+      ],
+      "cooking_method": [
+          "Cut tofu into small cubes and set aside.",
+          "In a small bowl, mix chicken stock, soy sauce, chili bean sauce, Shaoxing wine, corn starch, and salt.",
+          "In a wok or large skillet, heat vegetable oil over high heat.",
+          "Add garlic, ginger, and Sichuan peppercorns, and stir-fry until fragrant.",
+          "Add ground pork and stir-fry until browned.",
+          "Add shiitake mushrooms and stir-fry for another minute.",
+          "Add the sauce and bring to a boil.",
+          "Add tofu and stir gently.",
+          "Simmer for 5 minutes until the sauce is thickened.",
+          "Garnish with chopped green onions.",
+          "Serve hot with steamed rice and enjoy!"
+      ],
+      "rating": 4.8
+  },
+
+  {
+    "id": "14",
+    "chefId": "1052",
+    "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe7.png",
+        "name": "Wonton Soup",
+    "ingredients": [
+    "1/2 lb Ground Pork",
+    "1 pack Wonton Wrappers",
+    "4 cups Chicken Stock",
+    "2 Green Onions",
+    "2 cloves Garlic",
+    "1 inch Ginger",
+    "1 tbsp Soy Sauce",
+    "1 tbsp Shaoxing Wine",
+    "1/2 tsp Salt",
+    "1 Egg",
+    "2 tbsp Vegetable Oil"
+    ],
+    "cooking_method":[
+    "In a small bowl, mix ground pork, chopped green onions, minced garlic, minced ginger, soy sauce, Shaoxing wine, and salt.",
+    "Place a teaspoon of the filling in the center of each wonton wrapper.",
+    "Fold the wrapper in half and seal the edges by moistening with water.",
+    "In a large pot, bring chicken stock to a boil.",
+    "Add wontons and cook for 5-7 minutes until the wontons float to the surface and are cooked through.",
+    "Beat the egg and slowly pour it into the soup, stirring gently.",
+    "Garnish with chopped green onions.",
+    "Serve hot and enjoy!"
+    ],
+    "rating": 4.6
+  },
+
+  {
+    "id": "15",
+    "chefId": "1052",
+    "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe1.png",
+        "name": "Kung Pao Chicken",
+    "ingredients": [
+    "1 lb Chicken Breast",
+    "1/2 cup Roasted Peanuts",
+    "4 Dried Red Chilies",
+    "2 Green Onions",
+    "2 cloves Garlic",
+    "1 inch Ginger",
+    "2 tbsp Soy Sauce",
+    "2 tbsp Shaoxing Wine",
+    "1 tbsp Corn Starch",
+    "1 tbsp Black Vinegar",
+    "1 tbsp Sugar",
+    "1/2 tsp Salt",
+    "2 tbsp Vegetable Oil"
+    ],
+    "cooking_method":[
+    "Cut chicken into small cubes and marinate with soy sauce, Shaoxing wine, corn starch, and salt.",
+    "In a wok or large skillet, heat vegetable oil over high heat.",
+    "Add dried red chilies, garlic, and ginger, and stir-fry until fragrant.",
+    "Add chicken and stir-fry until browned.",
+    "Add roasted peanuts and green onions and stir-fry for another minute.",
+    "Mix black vinegar and sugar in a small bowl.",
+    "Pour the sauce over the chicken and peanuts.",
+    "Stir gently to coat evenly.",
+    "Serve hot with steamed rice and enjoy!"
+    ],
+    "rating": 4.7
+    },
+    
+    {
+    "id": "16",
+    "chefId": "1061",
+    "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe4.png",
+        "name": "Hot and Sour Soup",
+    "ingredients": [
+    "4 oz Pork Tenderloin",
+    "4 oz Bamboo Shoots",
+    "4 oz Shiitake Mushrooms",
+    "2 Green Onions",
+    "2 cloves Garlic",
+    "1 inch Ginger",
+    "4 cups Chicken Stock",
+    "3 tbsp Corn Starch",
+    "3 tbsp Rice Vinegar",
+    "2 tbsp Soy Sauce",
+    "1 tbsp Chili Oil",
+    "1 tbsp Sugar",
+    "1 tsp Salt",
+    "2 Eggs",
+    "2 tbsp Vegetable Oil"
+    ],
+    "cooking_method":[
+    "Slice pork tenderloin, bamboo shoots, and shiitake mushrooms into thin strips.",
+    "Chop green onions, garlic, and ginger.",
+    "In a small bowl, mix corn starch and water to make a slurry.",
+    "In a large pot, bring chicken stock to a boil.",
+    "Add pork, bamboo shoots, shiitake mushrooms, green onions, garlic, and ginger.",
+    "Simmer for 10 minutes.",
+    "Add rice vinegar, soy sauce, chili oil, sugar, and salt.",
+    "Stir in corn starch slurry and cook until the soup thickens.",
+    "Beat eggs in a small bowl and slowly pour into the soup, stirring gently.",
+    "Garnish with chopped green onions.",
+    "Serve hot and enjoy!"
+    ],
+    "rating": 4.5
+    },
+    {
+      "id": "17",
+      "chefId": "1061",
+      "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe5.png",
+            "name": "Ma Po Tofu",
+      "ingredients": [
+      "1 block Firm Tofu",
+      "4 oz Ground Pork",
+      "2 Green Onions",
+      "2 cloves Garlic",
+      "1 inch Ginger",
+      "1 tbsp Doubanjiang (Spicy Bean Paste)",
+      "1 tbsp Chili Oil",
+      "1 tbsp Soy Sauce",
+      "1 tbsp Shaoxing Wine",
+      "1 tsp Sichuan Peppercorns",
+      "1 tsp Corn Starch",
+      "1/2 tsp Salt",
+      "2 tbsp Vegetable Oil"
+      ],
+      "cooking_method":[
+      "Cut tofu into small cubes and set aside.",
+      "Chop green onions, garlic, and ginger.",
+      "In a small bowl, mix corn starch and water to make a slurry.",
+      "In a wok or large skillet, heat vegetable oil over high heat.",
+      "Add ground pork, green onions, garlic, and ginger, and stir-fry until browned.",
+      "Add doubanjiang, chili oil, soy sauce, and Shaoxing wine, and stir-fry for another minute.",
+      "Add tofu and gently stir to coat with the sauce.",
+      "Add Sichuan peppercorns and salt.",
+      "Pour in the corn starch slurry and stir gently until the sauce thickens.",
+      "Serve hot with steamed rice and enjoy!"
+      ],
+      "rating": 4.6
+      },
+      {
+        "id": "18",
+        "chefId": "1061",
+        "recipeImg": "https://poetic-sable-3448b5.netlify.app/img/recipe6.png",
+                "name": "Honey Walnut Shrimp",
+        "ingredients": [
+        "1 lb Shrimp",
+        "1 cup Walnuts",
+        "2 Green Onions",
+        "2 cloves Garlic",
+        "1 inch Ginger",
+        "1/2 cup Mayonnaise",
+        "1/4 cup Honey",
+        "1 tbsp Lemon Juice",
+        "1 tsp Salt",
+        "1 tsp Corn Starch",
+        "2 cups Vegetable Oil"
+        ],
+        "cooking_method":[
+        "Peel and devein shrimp, leaving the tail on.",
+        "In a small bowl, mix mayonnaise, honey, lemon juice, and salt to make the sauce.",
+        "Chop green onions, garlic, and ginger.",
+        "In a wok or large skillet, heat vegetable oil over medium-high heat.",
+        "Add walnuts and stir-fry until golden brown.",
+        "Remove walnuts from the wok and set aside.",
+        "Add shrimp to the wok and stir-fry until pink and cooked through.",
+        "Remove shrimp from the wok and drain the oil.",
+        "Add green onions, garlic, and ginger to the wok and stir-fry until fragrant.",
+        "Pour in the sauce and stir until it thickens.",
+        "Add shrimp and walnuts to the sauce and stir gently to coat evenly.",
+        "Serve hot with steamed rice and enjoy!"
+        ],
+        "rating": 4.8
+        }
+
+]

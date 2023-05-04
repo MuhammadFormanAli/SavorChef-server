@@ -1,64 +1,62 @@
 [
     {
-      "id": 1,
-      "chefId": 1016,
-      "chefName": "John Smith",
-      "imgSrc": "../public/chef1.jpg",
-      "experience": "10 years",
-      "likes":"710k",
-      "recipes":20,
-      "bio":"John Smith is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, John Smith has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+        "id": 1,
+        "chefId": 1016,
+        "chefName": "Wang Gang",
+        "imgSrc": "https://poetic-sable-3448b5.netlify.app/img/chef1.jpg",
+        "experience": "10 years",
+        "likes": "710k",
+        "totalRecipes": 20,
+        "bio": "Wang Gang is a highly skilled and creative chef with a true passion for the culinary arts. With 10 years of experience in the industry, Wang Gang has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
     },
     {
-      "id": 2,
-      "chefId": 1025,
-      "chefName": "Maria Rodriguez",
-      "imgSrc": "../public/chef1.jpg",
-      "experience": "8 years",
-      "likes":"152k",
-      "recipes":15,
-      "bio":"Maria Rodriguez is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Maria Rodriguez has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+        "id": 2,
+        "chefId": 1025,
+        "chefName": "Zhang Hong",
+        "imgSrc": "https://poetic-sable-3448b5.netlify.app/img/chef2.jpg",
+        "experience": "8 years",
+        "likes": "152k",
+        "totalRecipes": 15,
+        "bio": "Zhang Hong is a highly skilled and creative chef with a true passion for the culinary arts. With 8 years of experience in the industry, Maria Rodriguez has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
     },
     {
-      "id": 3,
-      "chefId": 1034,
-      "chefName": "David Lee",
-      "imgSrc": "../public/chef1.jpg",
-      "experience": "15 years",
-      "likes":"70k",
-      "recipes":25,
-      "bio":"David Lee is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, David Lee has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+        "id": 3,
+        "chefId": 1034,
+        "chefName": "Li Ming",
+        "imgSrc": "https://poetic-sable-3448b5.netlify.app/img/chef3.jpg",
+        "experience": "15 years",
+        "likes": "70k",
+        "totalRecipes": 25,
+        "bio": "Li Ming is a highly skilled and creative chef with a true passion for the culinary arts. With 15 years of experience in the industry, Li Ming has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
     },
     {
-      "id": 4,
-      "chefId": 1043,
-      "chefName": "Sara Khan",
-      "imgSrc": "../public/chef1.jpg",
-      "experience": "5 years",
-      "likes":"240k",
-      "recipes":10,
-      "bio":"Sara Khan is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Sara Khan has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+        "id": 4,
+        "chefId": 1043,
+        "chefName": "Chen Wei",
+        "imgSrc": "https://poetic-sable-3448b5.netlify.app/img/chef4.jpg",
+        "experience": "5 years",
+        "likes": "240k",
+        "totalRecipes": 10,
+        "bio": "Chen Wei is a highly skilled and creative chef with a true passion for the culinary arts. With 5 years of experience in the industry, Chen Wei has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
     },
     {
-      "id": 5,
-      "chefId": 1052,
-      "chefName": "Thomas Brown",
-      "imgSrc": "../public/chef1.jpg",
-      "experience": "20 years",
-      "likes":"52k",
-      "recipes":12,
-      "bio":"Thomas Brown is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Thomas Brown has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
+        "id": 5,
+        "chefId": 1052,
+        "chefName": "Liu Yan",
+        "imgSrc": "https://poetic-sable-3448b5.netlify.app/img/chef5.jpg",
+        "experience": "20 years",
+        "likes": "52k",
+        "totalRecipes": 12,
+        "bio": "Liu Yan is a highly skilled and creative chef with a true passion for the culinary arts. With 20 years of experience in the industry, Liu Yan has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
     },
     {
-      "id": 6,
-      "chefId": 1061,
-      "chefName": "Lena Chen",
-      "imgSrc": "../public/chef1.jpg",
-      "experience": "12 years",
-      "likes":"60k",
-      "recipes":17,
-      "bio":"Lena Chen is a highly skilled and creative chef with a true passion for the culinary arts. With [number] years of experience in the industry, Lena Chen has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
-      
+        "id": 6,
+        "chefId": 1061,
+        "chefName": "Wu Hao",
+        "imgSrc": "https://poetic-sable-3448b5.netlify.app/img/chef6.jpg",
+        "experience": "12 years",
+        "likes": "60k",
+        "totalRecipes": 17,
+        "bio": "Wu Hao is a highly skilled and creative chef with a true passion for the culinary arts. With 12 years of experience in the industry, Wu Hao has worked in a variety of settings, including fine dining restaurants, boutique hotels, and catering companies."
     }
-  ]
-  
+]
